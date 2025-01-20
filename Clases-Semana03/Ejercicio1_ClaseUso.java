@@ -6,6 +6,6 @@ public class Ejercicio1_ClaseUso {
 		Ejercicio1_Imprimir h2 = new Ejercicio1_Imprimir();
 		
 		h1.start();
-		h2.start();
+		h2.start();		
 	}
 }
